@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[loi:home|Door43 (loi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-loi|d43-loi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-loi/archive/master.zip|d43-loi.zip]]
+
+**Recent Changes**
+{{changes>ns = loi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/loi|Ethnologue data]]
+
